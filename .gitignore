@@ -1,0 +1,20 @@
+# Python Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Output and Generated files (You probably don't want these in Git)
+outputs/
+generated_voice/
+
+# Reference files (Usually large audio files)
+voice_reference/
+
+# OS generated files (Just in case)
+.DS_Store
+Thumbs.db

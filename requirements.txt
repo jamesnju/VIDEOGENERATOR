@@ -1,0 +1,5 @@
+
+gradio==6.8.0
+Pillow>=10.0
+numpy>=1.26,<2.0
+chatterbox-tts==0.1.7
